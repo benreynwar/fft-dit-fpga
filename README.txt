@@ -1,5 +1,8 @@
 Decimation-In-Time Fast Fourier Transform
 
+I've tried to make the implementation simple and well documented.
+I have not tried to make it efficient.
+
 dit.v - Contains main module.
 buffer.v - Contains a module for a single butterfly step.
 
